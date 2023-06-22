@@ -12,7 +12,7 @@ function firstNonRepeatedCharacter(s: string) {
             return char;
         }
     }
-    return '';
+    return ''
 }
 console.log(firstNonRepeatedCharacter("hello"));
 console.log(firstNonRepeatedCharacter("aabcc"));
